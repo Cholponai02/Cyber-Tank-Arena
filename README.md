@@ -12,7 +12,7 @@
 ## 📷 Gameplay
 
 ```md
-![Gameplay Screenshot](images/gameplay.png)
+![Gameplay Screenshot](css/gameplay.png)
 ```
 
 ---
